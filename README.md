@@ -1,4 +1,4 @@
-git remote add origin git@github.com:anton-107/codebase-golang-terms.git
+A micro tool to look for the most common terms used in a golang codebase
 
 # Usage
 ```bash
